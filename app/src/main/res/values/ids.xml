@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="recyclerView" type="id" />
+    <item name="title_input" type="id" />
+    <item name="breakfast_mealname1_input" type="id" />
+    <item name="breakfast_mealname2_input" type="id" />
+    <item name="breakfast_mealname3_input" type="id" />
+    <item name="breakfast_mealname4_input" type="id" />
+    <item name="lunch_mealname1_input" type="id" />
+    <item name="lunch_mealname2_input" type="id" />
+    <item name="lunch_mealname3_input" type="id" />
+    <item name="lunch_mealname4_input" type="id" />
+    <item name="dinner_mealname1_input" type="id" />
+    <item name="dinner_mealname2_input" type="id" />
+    <item name="dinner_mealname3_input" type="id" />
+    <item name="dinner_mealname4_input" type="id" />
+    <item name="add_button" type="id" />
+    <item name="mealname_input" type="id" />
+    <item name="id" type="id" />
+
+
+</resources>
